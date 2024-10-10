@@ -4,7 +4,7 @@ Bem-vindo ao Jogo de Adivinhação de Animais! Nesse jogo, você terá que adivi
 
 ## Descrição do Projeto
 
-Este projeto é um jogo de adivinhação em C, onde o jogador deve acertar um animal baseado em dicas fornecidas. O jogo possuí diferentes níveis de dificuldade, onde o jogador ganha pontos por cada acerto.
+Esse projeto é um jogo de adivinhação em C, onde o jogador deve acertar um animal baseado em dicas fornecidas. O jogo possuí diferentes níveis de dificuldade, onde o jogador ganha pontos por cada acerto.
 
 ## Funcionalidades
 
