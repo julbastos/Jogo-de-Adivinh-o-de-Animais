@@ -9,7 +9,7 @@ Esse projeto é um jogo de adivinhação em C, onde o jogador deve acertar um an
 ## Funcionalidades
 
 - **Escolha de Dificuldade**: O jogador pode escolher entre três níveis de dificuldade.
-- **Dicas**: Receba dicas a cada tentativa errada.
-- **Pontuação**: O jogador ganha um ponto a cada acerto.
+- **Dicas**: O jogador inicia com uma dica e recebe mais dicas a cada tentativa errada.
+- **Pontuação**: O jogador ganha um ponto a cada acerto que é acumulado caso continue escolhendo jogar novamente.
 - **Repetição do Jogo**: O jogador pode optar por jogar novamente a cada acerto.
 
