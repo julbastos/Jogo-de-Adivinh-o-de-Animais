@@ -26,7 +26,7 @@ animal escolher_animal(int dificuldade) {
         {"Lobo", {"Vive em matilhas.", "É conhecido por uivar.", "É um excelente caçador."}, "Carnívoro"},
         {"Águia", {"É uma ave de rapina.", "Tem visão aguçada.", "É símbolo de força."}, "Carnívoro"},
         {"Tubarão", {"É um predador marinho.", "Tem dentes afiados.", "Pode ser encontrado em oceanos."}, "Carnívoro"},
-        {"Urso", {"Come mel e peixes.", "É encontrado em florestas.", "Hibernar no inverno."}, "Onívoro"},
+        {"Urso", {"Come mel e peixes.", "É encontrado em florestas.", "Hiberna no inverno."}, "Onívoro"},
         {"Porco", {"Oinca", "Gosta de rolar na lama.", "Pode ser um animal doméstico."}, "Onívoro"},
         {"Gato", {"É um animal de estimação popular.", "Gosta de caçar pequenos animais.", "É muito independente."}, "Onívoro"},
         {"Cão", {"Famoso por ser o melhor amigo do homem.", "É muito leal.", "Existem muitas raças diferentes."}, "Onívoro"}
